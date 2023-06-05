@@ -1,0 +1,36 @@
+/* hero section */
+
+.bnrh1 {
+    color: #1178FF;
+}
+
+.bnrp {
+    color: #333;
+}
+
+
+/* about setin */
+
+.abticon {
+    color: #1178FF;
+    font-size: 55px;
+}
+
+.abtp {
+    font-weight: 700;
+    font-size: 120%;
+    color: #696868;
+}
+
+
+/* About Us Section */
+
+.About {
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.Aboutp {
+    font-size: 110%
+}
